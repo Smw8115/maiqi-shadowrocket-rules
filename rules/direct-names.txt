@@ -1,0 +1,13 @@
+# direct-names.txt
+# 把这些域名直连（DIRECT - 不走代理）
+
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,pingduoduo.com
+DOMAIN-SUFFIX,yangkeduo.com
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,banxe.cn
+DOMAIN-SUFFIX,wanyiwan.top
+DOMAIN-SUFFIX,zj96596.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,api.mijia.tech
+DOMAIN-SUFFIX,apple.com
