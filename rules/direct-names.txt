@@ -11,3 +11,6 @@ DOMAIN-SUFFIX,zj96596.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,api.mijia.tech
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,1qianbao.com
+DOMAIN-SUFFIX,yqbimg.net
