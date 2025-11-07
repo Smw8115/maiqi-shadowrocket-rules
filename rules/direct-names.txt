@@ -14,3 +14,8 @@ DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,1qianbao.com
 DOMAIN-SUFFIX,yqbimg.net
+DOMAIN-SUFFIX,banjixiaoguanjia.com
+DOMAIN-SUFFIX,banxiaoer.com
+DOMAIN-SUFFIX,banxiaoer.net
+DOMAIN-SUFFIX,welife001.com
+DOMAIN-SUFFIX,shujupie.com
