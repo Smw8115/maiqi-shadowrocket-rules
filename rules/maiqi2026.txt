@@ -1,4 +1,4 @@
-# direct-names.txt
+# maiqi2026.txt
 # 把这些域名直连（DIRECT - 不走代理）
 
 DOMAIN-SUFFIX,weixin.qq.com
