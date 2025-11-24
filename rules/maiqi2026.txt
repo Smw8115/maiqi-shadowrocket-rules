@@ -33,6 +33,9 @@ DOMAIN-SUFFIX,we4399.com
 DOMAIN-SUFFIX,4399data.com
 DOMAIN-SUFFIX,524399game.com
 DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,aiysm.com
+DOMAIN-SUFFIX,okii.com
+DOMAIN-SUFFIX,watch.okii.com
 
 
 
