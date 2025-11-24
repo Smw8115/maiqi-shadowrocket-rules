@@ -19,3 +19,15 @@ DOMAIN-SUFFIX,banxiaoer.com
 DOMAIN-SUFFIX,banxiaoer.net
 DOMAIN-SUFFIX,welife001.com
 DOMAIN-SUFFIX,shujupie.com
+DOMAIN-SUFFIX,jihuoniao.com
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,myhuaweicloud.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,pinduoduo.net
+DOMAIN-SUFFIX,me4399.com
+DOMAIN-SUFFIX,we4399.com
+DOMAIN-SUFFIX,4399data.com
+DOMAIN-SUFFIX,524399game.com
+DOMAIN-SUFFIX,umeng.com
+
