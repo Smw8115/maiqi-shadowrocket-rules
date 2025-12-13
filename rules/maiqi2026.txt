@@ -40,6 +40,8 @@ DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,aiysm.com
 DOMAIN-SUFFIX,okii.com
 DOMAIN-SUFFIX,watch.okii.com
-
-
-
+DOMAIN-SUFFIX,luckincoffeecdn.com
+DOMAIN-SUFFIX,luckincoffeecdn.com:443
+DOMAIN-SUFFIX,zzgqsh.com
+DOMAIN-SUFFIX,lkcoffee.com
+DOMAIN-SUFFIX,lkcoffee.com:443
