@@ -45,3 +45,4 @@ DOMAIN-SUFFIX,luckincoffeecdn.com:443
 DOMAIN-SUFFIX,zzgqsh.com
 DOMAIN-SUFFIX,lkcoffee.com
 DOMAIN-SUFFIX,lkcoffee.com:443
+
